@@ -6,7 +6,7 @@ export class HomePage extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
-            title: 'Welcome To Page Home'
+            title: 'Welcome To Page Rumah'
         };
     }
 
